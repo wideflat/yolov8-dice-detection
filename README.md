@@ -6,7 +6,7 @@ I used custom dataset and trained yolov8 model. The dataset I used is 6 sided di
 
 ## Steps
 
-<summary>Preparation</summary>
+### 0. Preparation
 I created a virtual environment in vscode and activate it.
 ```bash
 virtualenv venv --python=python3.9
@@ -19,6 +19,10 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 pip install ultralytics
 ```
 
+
+
 ### 1. Preparation
+
+
 
 
